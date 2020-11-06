@@ -3,9 +3,9 @@ html {
 	margin: 0;
 }
 body {
-	font-family: system-ui, sans-serif;
-	background-color: #2e2e2e;
-	color: #fff;
+	font-family: "Jost", system-ui, sans-serif;
+	background-color: #202020;
+	color: rgb(197, 197, 197);
 	margin: 0.5rem; /* 8px /16 */
 }
 footer {
@@ -76,7 +76,10 @@ abbr {
 	text-align: center;
 	font-size: 2em;
 	text-transform: lowercase;
-	font-style: italic;
+	/* font-style: italic; */
+}
+.speedlify-hed a{
+	text-decoration: none;
 }
 @media (min-width: 37.5em) { /* 600px */
 	.speedlify-hed {
