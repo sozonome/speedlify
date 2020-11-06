@@ -8,8 +8,6 @@ module.exports = {
   urls: [
     'https://sznm.dev/',
     'https://sznm.dev/projects/',
-    'https://sznm.dev/blog/',
-    'https://sznm.dev/about/',
     // some posts
     'https://sznm.dev/blog/2020-05-02-self-challenge/',
   ],

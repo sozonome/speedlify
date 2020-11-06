@@ -14,9 +14,6 @@ module.exports = {
   },
   urls: [
     'https://agustinusnathaniel.com/',
-    'https://agustinusnathaniel.com/about/',
-    'https://agustinusnathaniel.com/blog/',
-    'https://agustinusnathaniel.com/stuffs/',
     // Some Posts
     'https://agustinusnathaniel.com/blog/wondering-college-or-majors/',
   ],
