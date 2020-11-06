@@ -7,8 +7,5 @@ module.exports = {
   },
   urls: [
     'https://sznm.dev/',
-    'https://sznm.dev/projects/',
-    // some posts
-    'https://sznm.dev/blog/2020-05-02-self-challenge/',
   ],
 };
