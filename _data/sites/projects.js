@@ -19,6 +19,7 @@ module.exports = {
 		"https://nextchakra-starter.sznm.dev/",
 		"https://advicegen.sznm.dev/",
 		"https://instaprofile.sznm.dev/",
-		"https://le-cook.sznm.dev/"
+		"https://le-cook.sznm.dev/",
+		"https://igdl.sznm.dev/"
 	]
 };
