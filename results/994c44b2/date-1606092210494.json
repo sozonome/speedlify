@@ -1,0 +1,46 @@
+{
+  "url": "https://addtocal.sznm.dev/",
+  "requestedUrl": "https://addtocal.sznm.dev/",
+  "timestamp": 1606092523401,
+  "ranks": {
+    "hundos": 6,
+    "performance": 6,
+    "accessibility": 2,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.63,
+    "accessibility": 0.89,
+    "bestPractices": 1,
+    "seo": 0.83,
+    "total": 335
+  },
+  "firstContentfulPaint": 1525.1309999999999,
+  "speedIndex": 2819.303038661812,
+  "largestContentfulPaint": 2725.131,
+  "totalBlockingTime": 3964.4999999999995,
+  "cumulativeLayoutShift": 0.26717881944444444,
+  "timeToInteractive": 5675.630999999999,
+  "maxPotentialFirstInputDelay": 4048.9999999999995,
+  "timeToFirstByte": 26.031,
+  "weight": {
+    "summary": "22 requests • 248 KiB",
+    "total": 253928,
+    "image": 4790,
+    "imageCount": 1,
+    "script": 167733,
+    "scriptCount": 12,
+    "document": 6240,
+    "font": 73977,
+    "fontCount": 4,
+    "stylesheet": 1188,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "axe": {
+    "passes": 165,
+    "violations": 4
+  }
+}
