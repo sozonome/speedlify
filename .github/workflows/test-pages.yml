@@ -59,7 +59,7 @@ jobs:
             git commit -m "Commit results"
             git push -u $ORIGIN results
           fi
-      - name: Trigger next workflow
+      - name: Trigger Deploy to Vercel
         if: success()
         uses: peter-evans/repository-dispatch@v1
         with:
