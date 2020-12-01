@@ -1,12 +1,17 @@
 # source: https://github.com/ThewApp/speedlify-actions-vercel/blob/main/.github/workflows/deploy-vercel.yml
+# sequential workflow reference: https://stevenmortimer.com/running-github-actions-sequentially/
 
 name: Deploy to Vercel
 
-on:
-  push:
-  workflow_dispatch:
-  schedule:
+# on:
+#   push:
+#   workflow_dispatch:
+#   schedule:
     - cron: "0 */6 * * *"
+
+on:
+  repository_dispatch:
+    types: [trigger-deploy-speedlify-vercel]
 
 jobs:
   deploy:

@@ -1,4 +1,5 @@
 # source https://github.com/ThewApp/speedlify-actions-vercel/blob/main/.github/workflows/test-pages.yml
+# sequential workflow reference: https://stevenmortimer.com/running-github-actions-sequentially/
 
 name: Run speedlify
 
@@ -58,3 +59,10 @@ jobs:
             git commit -m "Commit results"
             git push -u $ORIGIN results
           fi
+      - name: Trigger next workflow
+        if: success()
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.PAT_SPEEDLIFY_VERCEL }}
+          repository: ${{ github.repository }}
+          event-type: trigger-deploy-speedlify-vercel
