@@ -1,0 +1,46 @@
+{
+  "url": "https://advicegen.sznm.dev/",
+  "requestedUrl": "https://advicegen.sznm.dev/",
+  "timestamp": 1607408487672,
+  "ranks": {
+    "hundos": 4,
+    "performance": 2,
+    "accessibility": 5,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.99,
+    "accessibility": 0.82,
+    "bestPractices": 1,
+    "seo": 0.85,
+    "total": 366
+  },
+  "firstContentfulPaint": 785.3632,
+  "speedIndex": 785.3632,
+  "largestContentfulPaint": 1210.3632,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.14678829447428388,
+  "timeToInteractive": 785.3632,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 11.583,
+  "weight": {
+    "summary": "5 requests • 53 KiB",
+    "total": 54314,
+    "image": 48818,
+    "imageCount": 1,
+    "script": 3553,
+    "scriptCount": 1,
+    "document": 620,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 1323,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "axe": {
+    "passes": 57,
+    "violations": 2
+  }
+}
