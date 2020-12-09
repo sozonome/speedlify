@@ -23,6 +23,5 @@ module.exports = {
 		"https://nextchakra-starter.sznm.dev/",
 		"https://addtocal.sznm.dev/",
 		"https://igdl.sznm.dev/",
-		"https://ytg.sznm.dev",
 	]
 };
