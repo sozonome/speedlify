@@ -13,13 +13,16 @@ module.exports = {
 		freshChrome: "run",
 	},
 	urls: [
+		"https://agustinusnathaniel.com",
+		"https://le-cook.sznm.dev/",
 		"https://covid19.sznm.dev/",
-		"https://addtocal.sznm.dev/",
-		"https://kapturalumina.sznm.dev/",
-		"https://nextchakra-starter.sznm.dev/",
+		'https://sznm.dev/',
 		"https://advicegen.sznm.dev/",
 		"https://instaprofile.sznm.dev/",
-		"https://le-cook.sznm.dev/",
-		"https://igdl.sznm.dev/"
+		"https://kapturalumina.sznm.dev/",
+		"https://nextchakra-starter.sznm.dev/",
+		"https://addtocal.sznm.dev/",
+		"https://igdl.sznm.dev/",
+		"https://ytg.sznm.dev",
 	]
 };
