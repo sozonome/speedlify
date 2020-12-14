@@ -1,0 +1,50 @@
+{
+  "url": "https://igdl.sznm.dev/",
+  "requestedUrl": "https://igdl.sznm.dev/",
+  "timestamp": 1607906927317,
+  "ranks": {
+    "hundos": 1,
+    "performance": 5,
+    "accessibility": 2,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.93,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 388
+  },
+  "firstContentfulPaint": 1834.914,
+  "speedIndex": 1923.9955929957794,
+  "largestContentfulPaint": 3034.9139999999998,
+  "totalBlockingTime": 104.5,
+  "cumulativeLayoutShift": 0.021901759893116022,
+  "timeToInteractive": 2714.9139999999998,
+  "maxPotentialFirstInputDelay": 205,
+  "timeToFirstByte": 17.637999999999998,
+  "weight": {
+    "summary": "24 requests • 349 KiB",
+    "total": 356917,
+    "image": 0,
+    "imageCount": 0,
+    "script": 205477,
+    "scriptCount": 16,
+    "document": 5825,
+    "font": 144571,
+    "fontCount": 4,
+    "stylesheet": 1044,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 75,
+    "violations": 5
+  }
+}
