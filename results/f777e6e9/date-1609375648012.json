@@ -1,0 +1,50 @@
+{
+  "url": "https://nextchakra-starter.sznm.dev/",
+  "requestedUrl": "https://nextchakra-starter.sznm.dev/",
+  "timestamp": 1609375740403,
+  "ranks": {
+    "hundos": 7,
+    "performance": 4,
+    "accessibility": 8,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.96,
+    "accessibility": 0.82,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 363
+  },
+  "firstContentfulPaint": 1617.01,
+  "speedIndex": 2199.380587999969,
+  "largestContentfulPaint": 2517.01,
+  "totalBlockingTime": 114.5,
+  "cumulativeLayoutShift": 0.12993359375,
+  "timeToInteractive": 1806.51,
+  "maxPotentialFirstInputDelay": 264,
+  "timeToFirstByte": 525.5889999999999,
+  "weight": {
+    "summary": "23 requests • 196 KiB",
+    "total": 200931,
+    "image": 29082,
+    "imageCount": 6,
+    "script": 166324,
+    "scriptCount": 12,
+    "document": 5359,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 166,
+    "stylesheetCount": 1,
+    "thirdParty": 8614,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 117,
+    "violations": 6
+  }
+}
