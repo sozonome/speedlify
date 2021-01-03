@@ -7,8 +7,8 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 */1 * *"
-
+    - cron: "0 0 * * 1"
+    # once a week on monday
 jobs:
   run-tests:
     runs-on: ubuntu-latest
