@@ -25,6 +25,7 @@ module.exports = {
     "https://igdl.sznm.dev/",
     "https://publicapis.sznm.dev/",
     "https://muvees.sznm.dev/",
-    "https://gaas.sznm.dev/"
+    "https://gaas.sznm.dev/",
+    "https://spoker.sznm.dev"
   ],
 };
