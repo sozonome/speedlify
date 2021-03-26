@@ -1,0 +1,50 @@
+{
+  "url": "https://le-cook.sznm.dev/",
+  "requestedUrl": "https://le-cook.sznm.dev/",
+  "timestamp": 1616769113424,
+  "ranks": {
+    "hundos": 10,
+    "performance": 4,
+    "accessibility": 13,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.9,
+    "accessibility": 0.76,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 353
+  },
+  "firstContentfulPaint": 886.504,
+  "speedIndex": 886.504,
+  "largestContentfulPaint": 2458.504,
+  "totalBlockingTime": 449.9999999999999,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1639.004,
+  "maxPotentialFirstInputDelay": 347,
+  "timeToFirstByte": 44.42399999999999,
+  "weight": {
+    "summary": "20 requests • 305 KiB",
+    "total": 312158,
+    "image": 29778,
+    "imageCount": 1,
+    "script": 273977,
+    "scriptCount": 6,
+    "document": 7926,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 155,
+    "violations": 5
+  }
+}
