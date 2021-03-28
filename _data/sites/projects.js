@@ -22,7 +22,7 @@ module.exports = {
     "https://kapturalumina.sznm.dev/",
     "https://nextchakra-starter.sznm.dev/",
     "https://addtocal.sznm.dev/",
-    "https://igdl.sznm.dev/",
+    // "https://igdl.sznm.dev/",
     "https://publicapis.sznm.dev/",
     "https://muvees.sznm.dev/",
     "https://gaas.sznm.dev/",
