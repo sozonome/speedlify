@@ -1,0 +1,50 @@
+{
+  "url": "https://instaprofile.sznm.dev/",
+  "requestedUrl": "https://instaprofile.sznm.dev/",
+  "timestamp": 1616917318869,
+  "ranks": {
+    "hundos": 3,
+    "performance": 1,
+    "accessibility": 10,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 1,
+    "accessibility": 0.81,
+    "bestPractices": 1,
+    "seo": 0.85,
+    "total": 366
+  },
+  "firstContentfulPaint": 1523.1889999999999,
+  "speedIndex": 1523.1889999999999,
+  "largestContentfulPaint": 1523.1889999999999,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1523.1889999999999,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 10.117,
+  "weight": {
+    "summary": "8 requests • 224 KiB",
+    "total": 229631,
+    "image": 119258,
+    "imageCount": 1,
+    "script": 3860,
+    "scriptCount": 1,
+    "document": 801,
+    "font": 101310,
+    "fontCount": 1,
+    "stylesheet": 4402,
+    "stylesheetCount": 4,
+    "thirdParty": 104217,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 45,
+    "violations": 1
+  }
+}
