@@ -27,6 +27,9 @@ module.exports = {
     "https://muvees.sznm.dev/",
     "https://gaas.sznm.dev/",
     "https://spoker.sznm.dev/",
-    "https://qr.sznm.dev/"
+    "https://qr.sznm.dev/",
+    "https://olamonde.me/",
+    "https://olamonde.me/sozonome/",
+    "https://olamonde.me/agustinusnathaniel/"
   ],
 };
