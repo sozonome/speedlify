@@ -1,0 +1,50 @@
+{
+  "url": "https://olamonde.me/",
+  "requestedUrl": "https://olamonde.me/",
+  "timestamp": 1620607791269,
+  "ranks": {
+    "hundos": 4,
+    "performance": 7,
+    "accessibility": 5,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.89,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 384
+  },
+  "firstContentfulPaint": 839.323,
+  "speedIndex": 839.323,
+  "largestContentfulPaint": 839.323,
+  "totalBlockingTime": 500.5,
+  "cumulativeLayoutShift": 0.01021594492594401,
+  "timeToInteractive": 3823.323,
+  "maxPotentialFirstInputDelay": 303,
+  "timeToFirstByte": 35.431,
+  "weight": {
+    "summary": "23 requests • 395 KiB",
+    "total": 404732,
+    "image": 0,
+    "imageCount": 0,
+    "script": 315667,
+    "scriptCount": 15,
+    "document": 7612,
+    "font": 80039,
+    "fontCount": 3,
+    "stylesheet": 1001,
+    "stylesheetCount": 1,
+    "thirdParty": 19702,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 86,
+    "violations": 2
+  }
+}
