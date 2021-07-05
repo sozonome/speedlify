@@ -1,0 +1,50 @@
+{
+  "url": "https://pokemon.sznm.dev/",
+  "requestedUrl": "https://pokemon.sznm.dev/",
+  "timestamp": 1625445823290,
+  "ranks": {
+    "hundos": 17,
+    "performance": 19,
+    "accessibility": 8,
+    "cumulative": 17
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.69,
+    "accessibility": 0.93,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 347
+  },
+  "firstContentfulPaint": 1432.531,
+  "speedIndex": 2421.84492199999,
+  "largestContentfulPaint": 3761.531,
+  "totalBlockingTime": 841.7345,
+  "cumulativeLayoutShift": 0.018199788411458334,
+  "timeToInteractive": 3816.531,
+  "maxPotentialFirstInputDelay": 694,
+  "timeToFirstByte": 477.13200000000006,
+  "weight": {
+    "summary": "38 requests • 303 KiB",
+    "total": 310338,
+    "image": 21300,
+    "imageCount": 5,
+    "script": 178252,
+    "scriptCount": 16,
+    "document": 8722,
+    "font": 37187,
+    "fontCount": 2,
+    "stylesheet": 723,
+    "stylesheetCount": 1,
+    "thirdParty": 604,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 558,
+    "violations": 21
+  }
+}
