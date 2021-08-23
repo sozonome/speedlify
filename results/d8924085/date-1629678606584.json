@@ -1,0 +1,50 @@
+{
+  "url": "https://qr.sznm.dev/",
+  "requestedUrl": "https://qr.sznm.dev/",
+  "timestamp": 1629679014515,
+  "ranks": {
+    "hundos": 3,
+    "performance": 8,
+    "accessibility": 3,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.94,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 392
+  },
+  "firstContentfulPaint": 2586.06,
+  "speedIndex": 2586.06,
+  "largestContentfulPaint": 2586.06,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2586.06,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 35.58,
+  "weight": {
+    "summary": "22 requests • 312 KiB",
+    "total": 319858,
+    "image": 0,
+    "imageCount": 0,
+    "script": 243815,
+    "scriptCount": 13,
+    "document": 1147,
+    "font": 74239,
+    "fontCount": 4,
+    "stylesheet": 657,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 128,
+    "violations": 1
+  }
+}
