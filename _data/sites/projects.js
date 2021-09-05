@@ -14,11 +14,11 @@ module.exports = {
   },
   urls: [
     "https://agustinusnathaniel.com/",
-    "https://le-cook.sznm.dev/",
+    // "https://le-cook.sznm.dev/",
     "https://covid19.sznm.dev/",
     "https://sznm.dev/",
     "https://advicegen.sznm.dev/",
-    "https://instaprofile.sznm.dev/",
+    // "https://instaprofile.sznm.dev/",
     "https://kapturalumina.sznm.dev/",
     "https://nextchakra-starter.sznm.dev/",
     "https://addtocal.sznm.dev/",
@@ -28,10 +28,11 @@ module.exports = {
     "https://snowpack-react-chakra-starter.sznm.dev",
     "https://vite-react-chakra-starter.sznm.dev",
     "https://spoker.sznm.dev/",
-    "https://qr.sznm.dev/",
+    // "https://qr.sznm.dev/",
     "https://olamonde.me/",
     "https://olamonde.me/sozonome/",
     "https://olamonde.me/agustinusnathaniel/",
-    "https://pokemon.sznm.dev"
+    // "https://pokemon.sznm.dev/",
+    "https://nextmui-starter.sznm.dev/",
   ],
 };
