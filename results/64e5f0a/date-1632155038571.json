@@ -1,0 +1,50 @@
+{
+  "url": "https://nextmui-starter.sznm.dev/",
+  "requestedUrl": "https://nextmui-starter.sznm.dev/",
+  "timestamp": 1632155432030,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 3,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.98,
+    "accessibility": 1,
+    "bestPractices": 0.87,
+    "seo": 1,
+    "total": 385
+  },
+  "firstContentfulPaint": 885.8164999999999,
+  "speedIndex": 885.8164999999999,
+  "largestContentfulPaint": 1674.8568,
+  "totalBlockingTime": 231,
+  "cumulativeLayoutShift": 0.004392957899305556,
+  "timeToInteractive": 2282.5699999999997,
+  "maxPotentialFirstInputDelay": 229,
+  "timeToFirstByte": 126.241,
+  "weight": {
+    "summary": "22 requests • 210 KiB",
+    "total": 215262,
+    "image": 18261,
+    "imageCount": 6,
+    "script": 130287,
+    "scriptCount": 9,
+    "document": 5644,
+    "font": 59641,
+    "fontCount": 2,
+    "stylesheet": 1429,
+    "stylesheetCount": 1,
+    "thirdParty": 7813,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 144,
+    "violations": 8
+  }
+}
