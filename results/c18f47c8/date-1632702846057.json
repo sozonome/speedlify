@@ -1,0 +1,50 @@
+{
+  "url": "https://sznm.dev/",
+  "requestedUrl": "https://sznm.dev/",
+  "timestamp": 1632702875901,
+  "ranks": {
+    "hundos": 1,
+    "performance": 4,
+    "accessibility": 2,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.9,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 390
+  },
+  "firstContentfulPaint": 986.419,
+  "speedIndex": 986.419,
+  "largestContentfulPaint": 986.419,
+  "totalBlockingTime": 467.04399999999987,
+  "cumulativeLayoutShift": 0.0017829861111111113,
+  "timeToInteractive": 3874.5069999999996,
+  "maxPotentialFirstInputDelay": 428,
+  "timeToFirstByte": 146.9,
+  "weight": {
+    "summary": "41 requests • 295 KiB",
+    "total": 301742,
+    "image": 18434,
+    "imageCount": 4,
+    "script": 168852,
+    "scriptCount": 15,
+    "document": 13598,
+    "font": 42688,
+    "fontCount": 3,
+    "stylesheet": 1129,
+    "stylesheetCount": 1,
+    "thirdParty": 21962,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 277,
+    "violations": 4
+  }
+}
