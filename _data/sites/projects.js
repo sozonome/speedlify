@@ -18,7 +18,7 @@ module.exports = {
     "https://sznm.dev/",
     "https://advicegen.sznm.dev/",,
     "https://kapturalumina.sznm.dev/",
-    "https://nextchakra-starter.sznm.dev/",
+    "https://nextarter-chakra.sznm.dev/",
     "https://addtocal.sznm.dev/",
     "https://publicapis.sznm.dev/",
     "https://muvees.sznm.dev/",
@@ -29,7 +29,7 @@ module.exports = {
     "https://olamonde.me/",
     "https://olamonde.me/sozonome/",
     "https://olamonde.me/agustinusnathaniel/",
-    "https://nextmui-starter.sznm.dev/",
-    "https://nextdaisy-starter.sznm.dev/"
+    "https://nextarter-mui.sznm.dev/",
+    "https://nextarter-daisy.sznm.dev/"
   ],
 };
