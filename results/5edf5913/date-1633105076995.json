@@ -1,0 +1,50 @@
+{
+  "url": "https://snowpack-react-chakra-starter.sznm.dev/",
+  "requestedUrl": "https://snowpack-react-chakra-starter.sznm.dev/",
+  "timestamp": 1633105320074,
+  "ranks": {
+    "hundos": 12,
+    "performance": 5,
+    "accessibility": 13,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.95,
+    "accessibility": 0.89,
+    "bestPractices": 0.87,
+    "seo": 0.92,
+    "total": 363
+  },
+  "firstContentfulPaint": 2025.0690999999997,
+  "speedIndex": 2151.7766095704956,
+  "largestContentfulPaint": 2050.0690999999997,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.2937610202365451,
+  "timeToInteractive": 2050.0690999999997,
+  "maxPotentialFirstInputDelay": 50,
+  "timeToFirstByte": 363.29299999999995,
+  "weight": {
+    "summary": "12 requests • 203 KiB",
+    "total": 207760,
+    "image": 97452,
+    "imageCount": 7,
+    "script": 109482,
+    "scriptCount": 4,
+    "document": 826,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 7987,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 113,
+    "violations": 5
+  }
+}
