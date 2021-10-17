@@ -1,0 +1,50 @@
+{
+  "url": "https://agustinusnathaniel.com/",
+  "requestedUrl": "https://agustinusnathaniel.com/",
+  "timestamp": 1634485769007,
+  "ranks": {
+    "hundos": 3,
+    "performance": 1,
+    "accessibility": 7,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 1,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 0.95,
+    "total": 393
+  },
+  "firstContentfulPaint": 850.456,
+  "speedIndex": 850.456,
+  "largestContentfulPaint": 850.456,
+  "totalBlockingTime": 88,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1636.9560000000001,
+  "maxPotentialFirstInputDelay": 178,
+  "timeToFirstByte": 9.119999999999997,
+  "weight": {
+    "summary": "14 requests • 173 KiB",
+    "total": 177663,
+    "image": 0,
+    "imageCount": 0,
+    "script": 82568,
+    "scriptCount": 7,
+    "document": 5469,
+    "font": 81625,
+    "fontCount": 2,
+    "stylesheet": 7928,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 81,
+    "violations": 5
+  }
+}
