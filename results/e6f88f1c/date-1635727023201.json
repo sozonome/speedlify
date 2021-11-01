@@ -1,0 +1,50 @@
+{
+  "url": "https://kapturalumina.sznm.dev/",
+  "requestedUrl": "https://kapturalumina.sznm.dev/",
+  "timestamp": 1635727364624,
+  "ranks": {
+    "hundos": 14,
+    "performance": 14,
+    "accessibility": 9,
+    "cumulative": 14
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.84,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "seo": 0.85,
+    "total": 353
+  },
+  "firstContentfulPaint": 2655.4688,
+  "speedIndex": 3412.5839676393307,
+  "largestContentfulPaint": 3759.4688,
+  "totalBlockingTime": 91,
+  "cumulativeLayoutShift": 0.0029550781250000002,
+  "timeToInteractive": 3834.4688,
+  "maxPotentialFirstInputDelay": 370,
+  "timeToFirstByte": 253.261,
+  "weight": {
+    "summary": "30 requests • 424 KiB",
+    "total": 434184,
+    "image": 49927,
+    "imageCount": 4,
+    "script": 333547,
+    "scriptCount": 20,
+    "document": 2429,
+    "font": 41154,
+    "fontCount": 3,
+    "stylesheet": 7127,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 154,
+    "violations": 2
+  }
+}
