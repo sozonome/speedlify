@@ -1,0 +1,50 @@
+{
+  "url": "https://gaas.sznm.dev/",
+  "requestedUrl": "https://gaas.sznm.dev/",
+  "timestamp": 1636332133170,
+  "ranks": {
+    "hundos": 12,
+    "performance": 9,
+    "accessibility": 11,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.85,
+    "accessibility": 0.9,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 360
+  },
+  "firstContentfulPaint": 870.8173,
+  "speedIndex": 870.8173,
+  "largestContentfulPaint": 3659.5046,
+  "totalBlockingTime": 253.5,
+  "cumulativeLayoutShift": 0.2695938869052463,
+  "timeToInteractive": 3070.83755,
+  "maxPotentialFirstInputDelay": 338,
+  "timeToFirstByte": 22.119,
+  "weight": {
+    "summary": "23 requests • 323 KiB",
+    "total": 330823,
+    "image": 36067,
+    "imageCount": 2,
+    "script": 191669,
+    "scriptCount": 10,
+    "document": 7745,
+    "font": 67331,
+    "fontCount": 4,
+    "stylesheet": 1048,
+    "stylesheetCount": 1,
+    "thirdParty": 919,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 116,
+    "violations": 2
+  }
+}
