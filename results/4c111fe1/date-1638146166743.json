@@ -1,0 +1,50 @@
+{
+  "url": "https://vite-react-chakra-starter.sznm.dev/",
+  "requestedUrl": "https://vite-react-chakra-starter.sznm.dev/",
+  "timestamp": 1638146407500,
+  "ranks": {
+    "hundos": 17,
+    "performance": 7,
+    "accessibility": 13,
+    "cumulative": 17
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.89,
+    "accessibility": 0.89,
+    "bestPractices": 0.93,
+    "seo": 0.77,
+    "total": 348
+  },
+  "firstContentfulPaint": 1515.7031,
+  "speedIndex": 1515.7031,
+  "largestContentfulPaint": 2579.9276,
+  "totalBlockingTime": 371,
+  "cumulativeLayoutShift": 0.24521131727430553,
+  "timeToInteractive": 2237.9207,
+  "maxPotentialFirstInputDelay": 421,
+  "timeToFirstByte": 8.751,
+  "weight": {
+    "summary": "14 requests • 189 KiB",
+    "total": 193922,
+    "image": 22528,
+    "imageCount": 7,
+    "script": 113875,
+    "scriptCount": 2,
+    "document": 715,
+    "font": 56134,
+    "fontCount": 3,
+    "stylesheet": 670,
+    "stylesheetCount": 1,
+    "thirdParty": 7990,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 112,
+    "violations": 5
+  }
+}
