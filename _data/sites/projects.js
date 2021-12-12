@@ -16,7 +16,7 @@ module.exports = {
     "https://agustinusnathaniel.com/",
     "https://covid19.sznm.dev/",
     "https://sznm.dev/",
-    "https://advicegen.sznm.dev/",,
+    "https://advicegen.sznm.dev/",
     "https://kapturalumina.sznm.dev/",
     "https://nextarter-chakra.sznm.dev/",
     "https://addtocal.sznm.dev/",
@@ -27,9 +27,11 @@ module.exports = {
     "https://vite-react-chakra-starter.sznm.dev",
     "https://spoker.sznm.dev/",
     "https://olamonde.me/",
-    "https://olamonde.me/sozonome/",
-    "https://olamonde.me/agustinusnathaniel/",
+    "https://olamonde.me/sozonome",
+    "https://olamonde.me/agustinusnathaniel",
     "https://nextarter-mui.sznm.dev/",
-    "https://nextarter-daisy.sznm.dev/"
+    "https://nextarter-daisy.sznm.dev/",
+    "https://mixtarter-chakra.sznm.dev/",
+    "https://mixtarter-tailwind.sznm.dev/"
   ],
 };
