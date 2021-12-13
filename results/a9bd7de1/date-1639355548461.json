@@ -1,0 +1,50 @@
+{
+  "url": "https://mixtarter-chakra.sznm.dev/",
+  "requestedUrl": "https://mixtarter-chakra.sznm.dev/",
+  "timestamp": 1639355854015,
+  "ranks": {
+    "hundos": 10,
+    "performance": 9,
+    "accessibility": 2,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.94,
+    "accessibility": 1,
+    "bestPractices": 0.87,
+    "seo": 1,
+    "total": 381
+  },
+  "firstContentfulPaint": 2281.544,
+  "speedIndex": 2281.544,
+  "largestContentfulPaint": 2546.544,
+  "totalBlockingTime": 210,
+  "cumulativeLayoutShift": 0.00804248046875,
+  "timeToInteractive": 3326.544,
+  "maxPotentialFirstInputDelay": 405,
+  "timeToFirstByte": 335.718,
+  "weight": {
+    "summary": "16 requests • 218 KiB",
+    "total": 222916,
+    "image": 28618,
+    "imageCount": 6,
+    "script": 171290,
+    "scriptCount": 6,
+    "document": 8735,
+    "font": 13243,
+    "fontCount": 1,
+    "stylesheet": 1030,
+    "stylesheetCount": 2,
+    "thirdParty": 23692,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 128,
+    "violations": 0
+  }
+}

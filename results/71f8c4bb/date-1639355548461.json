@@ -1,0 +1,50 @@
+{
+  "url": "https://olamonde.me/agustinusnathaniel",
+  "requestedUrl": "https://olamonde.me/agustinusnathaniel",
+  "timestamp": 1639355683913,
+  "ranks": {
+    "hundos": 2,
+    "performance": 10,
+    "accessibility": 4,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.93,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 393
+  },
+  "firstContentfulPaint": 830.1369,
+  "speedIndex": 830.1369,
+  "largestContentfulPaint": 1584.1863999999998,
+  "totalBlockingTime": 388.48580000000015,
+  "cumulativeLayoutShift": 0.0014470895131429035,
+  "timeToInteractive": 3705.8641,
+  "maxPotentialFirstInputDelay": 478,
+  "timeToFirstByte": 174.679,
+  "weight": {
+    "summary": "19 requests • 343 KiB",
+    "total": 351559,
+    "image": 0,
+    "imageCount": 0,
+    "script": 309633,
+    "scriptCount": 12,
+    "document": 11328,
+    "font": 29764,
+    "fontCount": 3,
+    "stylesheet": 758,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 159,
+    "violations": 1
+  }
+}
