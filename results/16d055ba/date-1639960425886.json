@@ -1,0 +1,50 @@
+{
+  "url": "https://nextarter-daisy.sznm.dev/",
+  "requestedUrl": "https://nextarter-daisy.sznm.dev/",
+  "timestamp": 1639960739990,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 10,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 1,
+    "accessibility": 0.93,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 393
+  },
+  "firstContentfulPaint": 880.741,
+  "speedIndex": 880.741,
+  "largestContentfulPaint": 880.741,
+  "totalBlockingTime": 99,
+  "cumulativeLayoutShift": 0.005056115363857705,
+  "timeToInteractive": 1684.741,
+  "maxPotentialFirstInputDelay": 122,
+  "timeToFirstByte": 28.797000000000004,
+  "weight": {
+    "summary": "18 requests • 201 KiB",
+    "total": 205885,
+    "image": 21029,
+    "imageCount": 3,
+    "script": 89748,
+    "scriptCount": 11,
+    "document": 6315,
+    "font": 81590,
+    "fontCount": 2,
+    "stylesheet": 7203,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 175,
+    "violations": 2
+  }
+}
