@@ -1,6 +1,6 @@
 module.exports = {
-  name: "Some Projects", // optional, falls back to object key
-  description: "Some Projects",
+  name: "Templates", // optional, falls back to object key
+  description: "Starter Templates",
   // // skip if localhost
   // // skip if this is a new fork of the speedlify (not Zach’s)
   // skip: !process.env.CONTEXT || process.env.SITE_NAME !== "speedlify",
@@ -13,16 +13,14 @@ module.exports = {
     freshChrome: "run",
   },
   urls: [
-    "https://sznm.dev/",
-    "https://agustinusnathaniel.com/",
-    "https://olamonde.me/",
-    "https://olamonde.me/sozonome",
-    "https://olamonde.me/agustinusnathaniel",
-    "https://spoker.sznm.dev/",
-    "https://publicapis.sznm.dev/",
-    "https://muvees.sznm.dev/",
-    "https://gaas.sznm.dev/",
-    "https://covid19.sznm.dev/",
-    "https://kapturalumina.sznm.dev/",
+    "https://nextarter-chakra.sznm.dev/",
+    "https://nextarter-mui.sznm.dev/",
+    "https://nextarter-daisy.sznm.dev/",
+    "https://snowpack-react-chakra-starter.sznm.dev",
+    "https://vite-react-chakra-starter.sznm.dev",
+    "https://mixtarter-chakra.sznm.dev/",
+    "https://mixtarter-tailwind.sznm.dev/",
+    "https://sveltekit-tw.sznm.dev/",
+    "https://sveltekit-uno.sznm.dev/"
   ],
 };
