@@ -1,0 +1,50 @@
+{
+  "url": "https://mixtarter-tailwind.sznm.dev/",
+  "requestedUrl": "https://mixtarter-tailwind.sznm.dev/",
+  "timestamp": 1640410280694,
+  "ranks": {
+    "hundos": 4,
+    "performance": 5,
+    "accessibility": 3,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.98,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 391
+  },
+  "firstContentfulPaint": 1524.8749999999998,
+  "speedIndex": 1524.8749999999998,
+  "largestContentfulPaint": 2352.2003999999997,
+  "totalBlockingTime": 28.5,
+  "cumulativeLayoutShift": 0.0025103251139322914,
+  "timeToInteractive": 2069.7509,
+  "maxPotentialFirstInputDelay": 107,
+  "timeToFirstByte": 148.553,
+  "weight": {
+    "summary": "14 requests • 109 KiB",
+    "total": 111626,
+    "image": 26393,
+    "imageCount": 4,
+    "script": 66246,
+    "scriptCount": 5,
+    "document": 2412,
+    "font": 12675,
+    "fontCount": 1,
+    "stylesheet": 3900,
+    "stylesheetCount": 3,
+    "thirdParty": 22644,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 105,
+    "violations": 0
+  }
+}
