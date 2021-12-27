@@ -1,0 +1,50 @@
+{
+  "url": "https://sveltekit-uno.sznm.dev/",
+  "requestedUrl": "https://sveltekit-uno.sznm.dev/",
+  "timestamp": 1640565681433,
+  "ranks": {
+    "hundos": 3,
+    "performance": 2,
+    "accessibility": 4,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 392
+  },
+  "firstContentfulPaint": 1062.551,
+  "speedIndex": 1062.551,
+  "largestContentfulPaint": 1062.551,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.010697916666666668,
+  "timeToInteractive": 1062.551,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 29.098,
+  "weight": {
+    "summary": "9 requests • 35 KiB",
+    "total": 36105,
+    "image": 0,
+    "imageCount": 0,
+    "script": 20631,
+    "scriptCount": 5,
+    "document": 1172,
+    "font": 12808,
+    "fontCount": 1,
+    "stylesheet": 1494,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 49,
+    "violations": 0
+  }
+}
