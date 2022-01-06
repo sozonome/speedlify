@@ -1,0 +1,50 @@
+{
+  "url": "https://nextarter-chakra.sznm.dev/",
+  "requestedUrl": "https://nextarter-chakra.sznm.dev/",
+  "timestamp": 1641489759567,
+  "ranks": {
+    "hundos": 7,
+    "performance": 6,
+    "accessibility": 1,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 0.87,
+    "seo": 1,
+    "total": 386
+  },
+  "firstContentfulPaint": 856.898,
+  "speedIndex": 856.898,
+  "largestContentfulPaint": 1294.8980000000001,
+  "totalBlockingTime": 164.5,
+  "cumulativeLayoutShift": 0.09798348654641044,
+  "timeToInteractive": 3076.898,
+  "maxPotentialFirstInputDelay": 282,
+  "timeToFirstByte": 23.933,
+  "weight": {
+    "summary": "23 requests • 262 KiB",
+    "total": 268544,
+    "image": 30996,
+    "imageCount": 7,
+    "script": 189891,
+    "scriptCount": 11,
+    "document": 9234,
+    "font": 37895,
+    "fontCount": 3,
+    "stylesheet": 528,
+    "stylesheetCount": 1,
+    "thirdParty": 10804,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 165,
+    "violations": 0
+  }
+}

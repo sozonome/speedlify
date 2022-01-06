@@ -1,0 +1,50 @@
+{
+  "url": "https://olamonde.me/sozonome",
+  "requestedUrl": "https://olamonde.me/sozonome",
+  "timestamp": 1641489334150,
+  "ranks": {
+    "hundos": 6,
+    "performance": 8,
+    "accessibility": 2,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.88,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 381
+  },
+  "firstContentfulPaint": 859.487,
+  "speedIndex": 859.487,
+  "largestContentfulPaint": 1571.7730000000001,
+  "totalBlockingTime": 483.5,
+  "cumulativeLayoutShift": 0.00055218505859375,
+  "timeToInteractive": 4831.517000000001,
+  "maxPotentialFirstInputDelay": 299,
+  "timeToFirstByte": 145.723,
+  "weight": {
+    "summary": "25 requests • 364 KiB",
+    "total": 372431,
+    "image": 0,
+    "imageCount": 0,
+    "script": 330534,
+    "scriptCount": 18,
+    "document": 11677,
+    "font": 29453,
+    "fontCount": 3,
+    "stylesheet": 640,
+    "stylesheetCount": 1,
+    "thirdParty": 22124,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 155,
+    "violations": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "url": "https://spoker.sznm.dev/",
+  "requestedUrl": "https://spoker.sznm.dev/",
+  "timestamp": 1641489545432,
+  "ranks": {
+    "hundos": 9,
+    "performance": 11,
+    "accessibility": 10,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.8,
+    "accessibility": 0.88,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 368
+  },
+  "firstContentfulPaint": 816.6895999999999,
+  "speedIndex": 2332.989948498185,
+  "largestContentfulPaint": 3906.1981,
+  "totalBlockingTime": 406.11379999999986,
+  "cumulativeLayoutShift": 0.051261047363281256,
+  "timeToInteractive": 4132.5274,
+  "maxPotentialFirstInputDelay": 349.99999999999955,
+  "timeToFirstByte": 30.495000000000005,
+  "weight": {
+    "summary": "19 requests • 401 KiB",
+    "total": 410847,
+    "image": 7501,
+    "imageCount": 1,
+    "script": 356520,
+    "scriptCount": 10,
+    "document": 5815,
+    "font": 40140,
+    "fontCount": 4,
+    "stylesheet": 796,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 169,
+    "violations": 6
+  }
+}
