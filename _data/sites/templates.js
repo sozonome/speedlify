@@ -16,11 +16,13 @@ module.exports = {
     "https://nextarter-chakra.sznm.dev/",
     "https://nextarter-mui.sznm.dev/",
     "https://nextarter-daisy.sznm.dev/",
+    "https://nextarter-windi.sznm.dev",
     "https://snowpack-react-chakra-starter.sznm.dev",
     "https://vite-react-chakra-starter.sznm.dev",
     "https://mixtarter-chakra.sznm.dev/",
     "https://mixtarter-tailwind.sznm.dev/",
     "https://sveltekit-tw.sznm.dev/",
-    "https://sveltekit-uno.sznm.dev/"
+    "https://sveltekit-uno.sznm.dev/",
+    "https://swindi.sznm.dev"
   ],
 };

@@ -24,6 +24,7 @@ module.exports = {
     "https://gaas.sznm.dev/",
     "https://covid19.sznm.dev/",
     "https://kapturalumina.sznm.dev/",
-    "https://v5.agustinusnathaniel.com/"
+    "https://v5.agustinusnathaniel.com/",
+    "https://base.sznm.dev/"
   ],
 };
