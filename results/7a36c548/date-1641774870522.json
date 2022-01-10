@@ -1,0 +1,50 @@
+{
+  "url": "https://swindi.sznm.dev/",
+  "requestedUrl": "https://swindi.sznm.dev/",
+  "timestamp": 1641775353374,
+  "ranks": {
+    "hundos": 4,
+    "performance": 5,
+    "accessibility": 4,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 393
+  },
+  "firstContentfulPaint": 1100.67573,
+  "speedIndex": 1100.67573,
+  "largestContentfulPaint": 1585.870015,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1100.67573,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 239.45200000000003,
+  "weight": {
+    "summary": "10 requests • 32 KiB",
+    "total": 32553,
+    "image": 7990,
+    "imageCount": 2,
+    "script": 21227,
+    "scriptCount": 5,
+    "document": 1470,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 1866,
+    "stylesheetCount": 2,
+    "thirdParty": 7990,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 74,
+    "violations": 0
+  }
+}
