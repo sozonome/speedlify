@@ -1,0 +1,50 @@
+{
+  "url": "https://publicapis.sznm.dev/",
+  "requestedUrl": "https://publicapis.sznm.dev/",
+  "timestamp": 1641911602940,
+  "ranks": {
+    "hundos": 6,
+    "performance": 6,
+    "accessibility": 7,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.89,
+    "accessibility": 0.91,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 380
+  },
+  "firstContentfulPaint": 920.963,
+  "speedIndex": 1540.1801724020631,
+  "largestContentfulPaint": 1698.621,
+  "totalBlockingTime": 512,
+  "cumulativeLayoutShift": 0.002636610243055556,
+  "timeToInteractive": 3466.963,
+  "maxPotentialFirstInputDelay": 445,
+  "timeToFirstByte": 115.37800000000001,
+  "weight": {
+    "summary": "26 requests • 316 KiB",
+    "total": 323664,
+    "image": 0,
+    "imageCount": 0,
+    "script": 210443,
+    "scriptCount": 13,
+    "document": 11171,
+    "font": 29589,
+    "fontCount": 3,
+    "stylesheet": 508,
+    "stylesheetCount": 1,
+    "thirdParty": 947,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 152,
+    "violations": 1
+  }
+}
