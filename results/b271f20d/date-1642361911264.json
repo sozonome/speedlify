@@ -1,0 +1,50 @@
+{
+  "url": "https://nextarter-mui.sznm.dev/",
+  "requestedUrl": "https://nextarter-mui.sznm.dev/",
+  "timestamp": 1642362319924,
+  "ranks": {
+    "hundos": 8,
+    "performance": 6,
+    "accessibility": 8,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.98,
+    "accessibility": 1,
+    "bestPractices": 0.87,
+    "seo": 1,
+    "total": 385
+  },
+  "firstContentfulPaint": 886.8594,
+  "speedIndex": 886.8594,
+  "largestContentfulPaint": 1554.9261999999999,
+  "totalBlockingTime": 228.5,
+  "cumulativeLayoutShift": 0.001125542534722222,
+  "timeToInteractive": 2715.3874000000005,
+  "maxPotentialFirstInputDelay": 429,
+  "timeToFirstByte": 22.786999999999992,
+  "weight": {
+    "summary": "20 requests • 216 KiB",
+    "total": 221354,
+    "image": 18138,
+    "imageCount": 6,
+    "script": 137054,
+    "scriptCount": 10,
+    "document": 5594,
+    "font": 59525,
+    "fontCount": 2,
+    "stylesheet": 1043,
+    "stylesheetCount": 1,
+    "thirdParty": 7974,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 144,
+    "violations": 8
+  }
+}

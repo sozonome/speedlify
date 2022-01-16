@@ -1,0 +1,50 @@
+{
+  "url": "https://covid19.sznm.dev/",
+  "requestedUrl": "https://covid19.sznm.dev/",
+  "timestamp": 1642362189008,
+  "ranks": {
+    "hundos": 11,
+    "performance": 9,
+    "accessibility": 12,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.73,
+    "accessibility": 0.83,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 348
+  },
+  "firstContentfulPaint": 869.001,
+  "speedIndex": 1643.3981793877565,
+  "largestContentfulPaint": 3399.0009999999997,
+  "totalBlockingTime": 616.5,
+  "cumulativeLayoutShift": 0.2647138835573052,
+  "timeToInteractive": 4636.39,
+  "maxPotentialFirstInputDelay": 367,
+  "timeToFirstByte": 41.878,
+  "weight": {
+    "summary": "31 requests • 381 KiB",
+    "total": 390429,
+    "image": 16154,
+    "imageCount": 2,
+    "script": 239954,
+    "scriptCount": 16,
+    "document": 8776,
+    "font": 39464,
+    "fontCount": 4,
+    "stylesheet": 529,
+    "stylesheetCount": 1,
+    "thirdParty": 3747,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 172,
+    "violations": 5
+  }
+}
