@@ -1,0 +1,50 @@
+{
+  "url": "https://muvees.sznm.dev/",
+  "requestedUrl": "https://muvees.sznm.dev/",
+  "timestamp": 1642379891522,
+  "ranks": {
+    "hundos": 10,
+    "performance": 12,
+    "accessibility": 6,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.7,
+    "accessibility": 0.95,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 358
+  },
+  "firstContentfulPaint": 990.362,
+  "speedIndex": 2226.936943527822,
+  "largestContentfulPaint": 4935.862,
+  "totalBlockingTime": 451,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5497.543,
+  "maxPotentialFirstInputDelay": 772,
+  "timeToFirstByte": 52.928,
+  "weight": {
+    "summary": "71 requests • 2,115 KiB",
+    "total": 2165475,
+    "image": 1776306,
+    "imageCount": 31,
+    "script": 222343,
+    "scriptCount": 16,
+    "document": 26735,
+    "font": 52569,
+    "fontCount": 3,
+    "stylesheet": 551,
+    "stylesheetCount": 1,
+    "thirdParty": 1776306,
+    "thirdPartyCount": 31
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 625,
+    "violations": 81
+  }
+}
