@@ -1,0 +1,49 @@
+{
+  "url": "https://vite-react-chakra-starter.sznm.dev/",
+  "requestedUrl": "https://vite-react-chakra-starter.sznm.dev/",
+  "timestamp": 1642998900751,
+  "ranks": {
+    "hundos": 8,
+    "performance": 3,
+    "accessibility": 9,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.93,
+    "seo": 0.77,
+    "total": 359
+  },
+  "firstContentfulPaint": 1583.635,
+  "speedIndex": 1583.635,
+  "largestContentfulPaint": 1603.135,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0018929578993055554,
+  "timeToInteractive": 1603.135,
+  "maxPotentialFirstInputDelay": 39,
+  "timeToFirstByte": 11.808999999999997,
+  "weight": {
+    "summary": "14 requests • 190 KiB",
+    "total": 194610,
+    "image": 22947,
+    "imageCount": 7,
+    "script": 114161,
+    "scriptCount": 2,
+    "document": 731,
+    "font": 56092,
+    "fontCount": 3,
+    "stylesheet": 679,
+    "stylesheetCount": 1,
+    "thirdParty": 8295,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}
