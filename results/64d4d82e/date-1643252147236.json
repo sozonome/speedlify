@@ -1,0 +1,49 @@
+{
+  "url": "https://nextarter-chakra.sznm.dev/",
+  "requestedUrl": "https://nextarter-chakra.sznm.dev/",
+  "timestamp": 1643253893679,
+  "ranks": {
+    "hundos": 4,
+    "performance": 5,
+    "accessibility": 4,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 392
+  },
+  "firstContentfulPaint": 843.768,
+  "speedIndex": 889.6068519325712,
+  "largestContentfulPaint": 843.768,
+  "totalBlockingTime": 207,
+  "cumulativeLayoutShift": 0.046816351665390867,
+  "timeToInteractive": 3013.768,
+  "maxPotentialFirstInputDelay": 436,
+  "timeToFirstByte": 25.697000000000003,
+  "weight": {
+    "summary": "23 requests • 262 KiB",
+    "total": 268349,
+    "image": 30564,
+    "imageCount": 7,
+    "script": 190039,
+    "scriptCount": 11,
+    "document": 9321,
+    "font": 37897,
+    "fontCount": 3,
+    "stylesheet": 528,
+    "stylesheetCount": 1,
+    "thirdParty": 10458,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}
