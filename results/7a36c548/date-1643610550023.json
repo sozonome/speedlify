@@ -1,0 +1,49 @@
+{
+  "url": "https://swindi.sznm.dev/",
+  "requestedUrl": "https://swindi.sznm.dev/",
+  "timestamp": 1643612550350,
+  "ranks": {
+    "hundos": 2,
+    "performance": 4,
+    "accessibility": 5,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1056.812,
+  "speedIndex": 1703.1563160000173,
+  "largestContentfulPaint": 1513.7079999999996,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0005911757151285807,
+  "timeToInteractive": 1056.812,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 592.1320000000001,
+  "weight": {
+    "summary": "11 requests • 66 KiB",
+    "total": 67415,
+    "image": 1945,
+    "imageCount": 1,
+    "script": 22351,
+    "scriptCount": 5,
+    "document": 1549,
+    "font": 38239,
+    "fontCount": 3,
+    "stylesheet": 3331,
+    "stylesheetCount": 1,
+    "thirdParty": 1945,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 2
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "url": "https://sveltekit-tw.sznm.dev/",
+  "requestedUrl": "https://sveltekit-tw.sznm.dev/",
+  "timestamp": 1643612764021,
+  "ranks": {
+    "hundos": 4,
+    "performance": 3,
+    "accessibility": 2,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 392
+  },
+  "firstContentfulPaint": 1057.8049999999998,
+  "speedIndex": 1418.967762000228,
+  "largestContentfulPaint": 1057.8049999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.007196614583333333,
+  "timeToInteractive": 1057.8049999999998,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 570.827,
+  "weight": {
+    "summary": "10 requests • 102 KiB",
+    "total": 104296,
+    "image": 0,
+    "imageCount": 0,
+    "script": 20178,
+    "scriptCount": 5,
+    "document": 1278,
+    "font": 80883,
+    "fontCount": 2,
+    "stylesheet": 1957,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 2
+  },
+  "axe": {
+    "passes": 47,
+    "violations": 0
+  }
+}
