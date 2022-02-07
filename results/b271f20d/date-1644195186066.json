@@ -1,0 +1,49 @@
+{
+  "url": "https://nextarter-mui.sznm.dev/",
+  "requestedUrl": "https://nextarter-mui.sznm.dev/",
+  "timestamp": 1644197161333,
+  "ranks": {
+    "hundos": 2,
+    "performance": 4,
+    "accessibility": 4,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 392
+  },
+  "firstContentfulPaint": 995.9717999999999,
+  "speedIndex": 1249.1430100721902,
+  "largestContentfulPaint": 1593.4930999999997,
+  "totalBlockingTime": 141.9999999999999,
+  "cumulativeLayoutShift": 0.0007340494791666666,
+  "timeToInteractive": 2816.3572,
+  "maxPotentialFirstInputDelay": 237,
+  "timeToFirstByte": 215.27800000000002,
+  "weight": {
+    "summary": "20 requests • 215 KiB",
+    "total": 220144,
+    "image": 17859,
+    "imageCount": 6,
+    "script": 136143,
+    "scriptCount": 10,
+    "document": 5555,
+    "font": 59546,
+    "fontCount": 2,
+    "stylesheet": 1041,
+    "stylesheetCount": 1,
+    "thirdParty": 7657,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

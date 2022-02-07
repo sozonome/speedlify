@@ -1,0 +1,50 @@
+{
+  "url": "https://nextarter-windi.sznm.dev/",
+  "requestedUrl": "https://nextarter-windi.sznm.dev/",
+  "timestamp": 1644196663495,
+  "ranks": {
+    "hundos": 8,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": null,
+    "seo": 1,
+    "total": 300
+  },
+  "firstContentfulPaint": 942.886,
+  "speedIndex": 1344.7794199998293,
+  "largestContentfulPaint": 942.886,
+  "totalBlockingTime": 3.5,
+  "cumulativeLayoutShift": 0.0005911757151285807,
+  "timeToInteractive": 1215.386,
+  "maxPotentialFirstInputDelay": 80,
+  "timeToFirstByte": 237.027,
+  "weight": {
+    "summary": "13 requests • 91 KiB",
+    "total": 93282,
+    "image": 1077,
+    "imageCount": 1,
+    "script": 47593,
+    "scriptCount": 7,
+    "document": 3320,
+    "font": 38372,
+    "fontCount": 3,
+    "stylesheet": 2920,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 67,
+    "violations": 0
+  }
+}
