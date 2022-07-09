@@ -1,6 +1,6 @@
 module.exports = {
-  name: "Some Projects", // optional, falls back to object key
-  description: "Some Projects",
+  name: "Experiments", // optional, falls back to object key
+  description: "Some experiments",
   // // skip if localhost
   // // skip if this is a new fork of the speedlify (not Zach’s)
   // skip: !process.env.CONTEXT || process.env.SITE_NAME !== "speedlify",
@@ -13,18 +13,8 @@ module.exports = {
     freshChrome: "run",
   },
   urls: [
-    "https://sznm.dev/",
-    "https://agustinusnathaniel.com/",
-    "https://olamonde.me/",
-    "https://olamonde.me/sozonome",
-    "https://olamonde.me/agustinusnathaniel",
-    "https://spoker.dev/",
-    "https://publicapis.sznm.dev/",
-    "https://muvees.sznm.dev/",
-    "https://gaas.sznm.dev/",
-    "https://covid19.sznm.dev/",
-    "https://kapturalumina.sznm.dev/",
-    "https://base.sznm.dev/",
-    "https://xtarter.sznm.dev/",
+    "https://my-spotify-astro.sznm.dev",
+    "https://my-spotify-nuxt.sznm.dev",
+    "https://my-spotify-fresh.sznm.dev",
   ],
 };

@@ -15,9 +15,8 @@ module.exports = {
   urls: [
     "https://nextarter-chakra.sznm.dev/",
     "https://nextarter-mui.sznm.dev/",
-    "https://nextarter-daisy.sznm.dev/",
+    "https://nextarter-tailwind.sznm.dev/",
     "https://nextarter-windi.sznm.dev",
-    "https://snowpack-react-chakra-starter.sznm.dev",
     "https://vite-react-chakra-starter.sznm.dev",
     "https://mixtarter-chakra.sznm.dev/",
     "https://mixtarter-tailwind.sznm.dev/",
