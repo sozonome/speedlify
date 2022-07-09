@@ -1,0 +1,51 @@
+{
+  "url": "https://my-spotify-fresh.sznm.dev/",
+  "requestedUrl": "https://my-spotify-fresh.sznm.dev/",
+  "timestamp": 1657354026213,
+  "ranks": {
+    "hundos": 3,
+    "performance": 1,
+    "accessibility": 2,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "9.6.3",
+    "performance": 1,
+    "accessibility": 0.85,
+    "bestPractices": 1,
+    "seo": 0.75,
+    "total": 360
+  },
+  "firstContentfulPaint": 988.891,
+  "firstMeaningfulPaint": 988.891,
+  "speedIndex": 988.891,
+  "largestContentfulPaint": 988.891,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 988.891,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 221.819,
+  "weight": {
+    "summary": "1 request • 2 KiB",
+    "total": 1841,
+    "image": 0,
+    "imageCount": 0,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 1841,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 30,
+    "violations": 2
+  }
+}
