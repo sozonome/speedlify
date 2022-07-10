@@ -1,0 +1,51 @@
+{
+  "url": "https://nextarter-tailwind.sznm.dev/",
+  "requestedUrl": "https://nextarter-tailwind.sznm.dev/",
+  "timestamp": 1657464318288,
+  "ranks": {
+    "hundos": 4,
+    "performance": 5,
+    "accessibility": 8,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "9.6.3",
+    "performance": 0.99,
+    "accessibility": 0.97,
+    "bestPractices": 0.92,
+    "seo": 1,
+    "total": 388
+  },
+  "firstContentfulPaint": 919.829,
+  "firstMeaningfulPaint": 919.829,
+  "speedIndex": 919.829,
+  "largestContentfulPaint": 1710.829,
+  "totalBlockingTime": 69,
+  "cumulativeLayoutShift": 0.014750386555989582,
+  "timeToInteractive": 2004.8289999999997,
+  "maxPotentialFirstInputDelay": 188,
+  "timeToFirstByte": 18.074000000000005,
+  "weight": {
+    "summary": "15 requests • 135 KiB",
+    "total": 137864,
+    "image": 6790,
+    "imageCount": 2,
+    "script": 84132,
+    "scriptCount": 8,
+    "document": 5485,
+    "font": 32672,
+    "fontCount": 3,
+    "stylesheet": 8785,
+    "stylesheetCount": 1,
+    "thirdParty": 6790,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 123,
+    "violations": 2
+  }
+}

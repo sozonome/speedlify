@@ -1,0 +1,51 @@
+{
+  "url": "https://my-spotify-nuxt.sznm.dev/",
+  "requestedUrl": "https://my-spotify-nuxt.sznm.dev/",
+  "timestamp": 1657464064716,
+  "ranks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 3,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "9.6.3",
+    "performance": 0.94,
+    "accessibility": 0.66,
+    "bestPractices": 1,
+    "seo": 0.75,
+    "total": 335
+  },
+  "firstContentfulPaint": 2434.481,
+  "firstMeaningfulPaint": 2434.481,
+  "speedIndex": 3088.4898820000017,
+  "largestContentfulPaint": 2434.481,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0029947323269314233,
+  "timeToInteractive": 2434.481,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 1047.977,
+  "weight": {
+    "summary": "9 requests • 142 KiB",
+    "total": 145040,
+    "image": 57711,
+    "imageCount": 1,
+    "script": 51662,
+    "scriptCount": 3,
+    "document": 1108,
+    "font": 30552,
+    "fontCount": 1,
+    "stylesheet": 3683,
+    "stylesheetCount": 2,
+    "thirdParty": 88673,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 42,
+    "violations": 3
+  }
+}

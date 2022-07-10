@@ -1,0 +1,51 @@
+{
+  "url": "https://my-spotify-astro.sznm.dev/",
+  "requestedUrl": "https://my-spotify-astro.sznm.dev/",
+  "timestamp": 1657464051841,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 2,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "9.6.3",
+    "performance": 0.95,
+    "accessibility": 0.8,
+    "bestPractices": 1,
+    "seo": 0.83,
+    "total": 358
+  },
+  "firstContentfulPaint": 1594.5539999999999,
+  "firstMeaningfulPaint": 1594.5539999999999,
+  "speedIndex": 1865.65934800001,
+  "largestContentfulPaint": 2736.8729999999996,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0012692769368489584,
+  "timeToInteractive": 1594.5539999999999,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 403.29400000000004,
+  "weight": {
+    "summary": "11 requests • 209 KiB",
+    "total": 214215,
+    "image": 57711,
+    "imageCount": 1,
+    "script": 63963,
+    "scriptCount": 4,
+    "document": 1217,
+    "font": 86903,
+    "fontCount": 2,
+    "stylesheet": 4098,
+    "stylesheetCount": 2,
+    "thirdParty": 145430,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 38,
+    "violations": 1
+  }
+}
