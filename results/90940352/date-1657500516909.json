@@ -1,0 +1,51 @@
+{
+  "url": "https://spoker.dev/",
+  "requestedUrl": "https://spoker.dev/",
+  "timestamp": 1657500644656,
+  "ranks": {
+    "hundos": 11,
+    "performance": 12,
+    "accessibility": 11,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "9.6.3",
+    "performance": 0.63,
+    "accessibility": 0.89,
+    "bestPractices": 0.92,
+    "seo": 1,
+    "total": 344
+  },
+  "firstContentfulPaint": 781.333,
+  "firstMeaningfulPaint": 5956.790999999999,
+  "speedIndex": 3834.3547250955753,
+  "largestContentfulPaint": 1750.77,
+  "totalBlockingTime": 1571.0000000000005,
+  "cumulativeLayoutShift": 0.12575464545355902,
+  "timeToInteractive": 8602.685571762086,
+  "maxPotentialFirstInputDelay": 482,
+  "timeToFirstByte": 10.268999999999977,
+  "weight": {
+    "summary": "34 requests • 735 KiB",
+    "total": 752749,
+    "image": 7433,
+    "imageCount": 1,
+    "script": 601220,
+    "scriptCount": 14,
+    "document": 31462,
+    "font": 50957,
+    "fontCount": 4,
+    "stylesheet": 24812,
+    "stylesheetCount": 2,
+    "thirdParty": 270748,
+    "thirdPartyCount": 18
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 95,
+    "violations": 12
+  }
+}
