@@ -1,0 +1,67 @@
+{
+  "url": "https://gaas.sznm.dev/",
+  "requestedUrl": "https://gaas.sznm.dev/",
+  "timestamp": 1657709742797,
+  "ranks": {
+    "hundos": 9,
+    "performance": 11,
+    "accessibility": 5,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "9.6.3",
+    "performance": 0.77,
+    "accessibility": 0.97,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 374
+  },
+  "firstContentfulPaint": 1071.828,
+  "firstMeaningfulPaint": 1071.828,
+  "speedIndex": 1253.8134201771536,
+  "largestContentfulPaint": 3918.2479999999996,
+  "totalBlockingTime": 197,
+  "cumulativeLayoutShift": 0.25143665822347,
+  "timeToInteractive": 3213.828,
+  "maxPotentialFirstInputDelay": 444,
+  "timeToFirstByte": 79.35000000000001,
+  "weight": {
+    "summary": "23 requests • 328 KiB",
+    "total": 336107,
+    "image": 36467,
+    "imageCount": 2,
+    "script": 193908,
+    "scriptCount": 11,
+    "document": 7657,
+    "font": 65853,
+    "fontCount": 4,
+    "stylesheet": 684,
+    "stylesheetCount": 1,
+    "thirdParty": 1297,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 9,
+    "-weight.document": 3,
+    "+weight.document": 11,
+    "-weight.script": 4,
+    "+weight.script": 10,
+    "-weight.image": 5,
+    "+weight.image": 3,
+    "-weight.font": 11,
+    "+weight.font": 3,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 12,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "passes": 117,
+    "violations": 1
+  }
+}
