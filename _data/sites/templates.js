@@ -22,6 +22,8 @@ module.exports = {
     "https://mixtarter-tailwind.sznm.dev/",
     "https://sveltekit-tw.sznm.dev/",
     "https://sveltekit-uno.sznm.dev/",
-    "https://swindi.sznm.dev"
+    "https://swindi.sznm.dev",
+    "https://nextarter-nextui.sznm.dev",
+    "https://cra-chakra-ts.sznm.dev"
   ],
 };
