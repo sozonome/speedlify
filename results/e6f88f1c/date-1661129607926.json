@@ -1,0 +1,67 @@
+{
+  "url": "https://kapturalumina.sznm.dev/",
+  "requestedUrl": "https://kapturalumina.sznm.dev/",
+  "timestamp": 1661129795150,
+  "ranks": {
+    "hundos": 11,
+    "performance": 10,
+    "accessibility": 10,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "9.6.6",
+    "performance": 0.77,
+    "accessibility": 0.92,
+    "bestPractices": 0.92,
+    "seo": 0.85,
+    "total": 346
+  },
+  "firstContentfulPaint": 3337.033,
+  "firstMeaningfulPaint": 3389.033,
+  "speedIndex": 4030.112805831246,
+  "largestContentfulPaint": 3715.033,
+  "totalBlockingTime": 88,
+  "cumulativeLayoutShift": 0.13130208100212945,
+  "timeToInteractive": 3579.033,
+  "maxPotentialFirstInputDelay": 184,
+  "timeToFirstByte": 394.95399999999995,
+  "weight": {
+    "summary": "17 requests • 525 KiB",
+    "total": 537176,
+    "image": 50000,
+    "imageCount": 4,
+    "script": 436902,
+    "scriptCount": 7,
+    "document": 2071,
+    "font": 40687,
+    "fontCount": 3,
+    "stylesheet": 7516,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 11,
+    "+weight.total": 3,
+    "-weight.document": 2,
+    "+weight.document": 12,
+    "-weight.script": 12,
+    "+weight.script": 2,
+    "-weight.image": 6,
+    "+weight.image": 2,
+    "-weight.font": 6,
+    "+weight.font": 8,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 6,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 11
+  },
+  "axe": {
+    "passes": 154,
+    "violations": 2
+  }
+}
