@@ -1,0 +1,67 @@
+{
+  "url": "https://olamonde.me/sozonome",
+  "requestedUrl": "https://olamonde.me/sozonome",
+  "timestamp": 1663549203134,
+  "ranks": {
+    "hundos": 7,
+    "performance": 8,
+    "accessibility": 9,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "9.6.7",
+    "performance": 0.79,
+    "accessibility": 0.94,
+    "bestPractices": 0.92,
+    "seo": 1,
+    "total": 365
+  },
+  "firstContentfulPaint": 813.7488,
+  "firstMeaningfulPaint": 870.7488,
+  "speedIndex": 813.7488,
+  "largestContentfulPaint": 1713.772,
+  "totalBlockingTime": 724,
+  "cumulativeLayoutShift": 0.0008561164008246528,
+  "timeToInteractive": 5705.873199999999,
+  "maxPotentialFirstInputDelay": 368,
+  "timeToFirstByte": 124.593,
+  "weight": {
+    "summary": "24 requests • 450 KiB",
+    "total": 460806,
+    "image": 0,
+    "imageCount": 0,
+    "script": 396327,
+    "scriptCount": 14,
+    "document": 12029,
+    "font": 51649,
+    "fontCount": 4,
+    "stylesheet": 509,
+    "stylesheetCount": 1,
+    "thirdParty": 37217,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 8,
+    "+weight.total": 6,
+    "-weight.document": 7,
+    "+weight.document": 7,
+    "-weight.script": 10,
+    "+weight.script": 4,
+    "-weight.image": 1,
+    "+weight.image": 8,
+    "-weight.font": 9,
+    "+weight.font": 5,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 11,
+    "-largestContentfulPaint": 6
+  },
+  "axe": {
+    "passes": 185,
+    "violations": 17
+  }
+}
