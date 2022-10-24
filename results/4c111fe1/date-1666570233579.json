@@ -1,0 +1,67 @@
+{
+  "url": "https://vite-react-chakra-starter.sznm.dev/",
+  "requestedUrl": "https://vite-react-chakra-starter.sznm.dev/",
+  "timestamp": 1666570541504,
+  "ranks": {
+    "hundos": 11,
+    "performance": 10,
+    "accessibility": 8,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "9.6.7",
+    "performance": 0.95,
+    "accessibility": 0.97,
+    "bestPractices": 0.92,
+    "seo": 0.85,
+    "total": 369
+  },
+  "firstContentfulPaint": 1841.58874,
+  "firstMeaningfulPaint": 1857.08874,
+  "speedIndex": 2014.2078678463695,
+  "largestContentfulPaint": 1857.08874,
+  "totalBlockingTime": 190.99999999999977,
+  "cumulativeLayoutShift": 0.06815849134657119,
+  "timeToInteractive": 2082.5887399999997,
+  "maxPotentialFirstInputDelay": 241,
+  "timeToFirstByte": 186.05900000000003,
+  "weight": {
+    "summary": "12 requests • 202 KiB",
+    "total": 206704,
+    "image": 13654,
+    "imageCount": 6,
+    "script": 159662,
+    "scriptCount": 1,
+    "document": 610,
+    "font": 32348,
+    "fontCount": 3,
+    "stylesheet": 430,
+    "stylesheetCount": 1,
+    "thirdParty": 6601,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 4,
+    "-weight.document": 1,
+    "+weight.document": 12,
+    "-weight.script": 10,
+    "+weight.script": 3,
+    "-weight.image": 9,
+    "+weight.image": 4,
+    "-weight.font": 5,
+    "+weight.font": 8,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 9
+  },
+  "axe": {
+    "passes": 145,
+    "violations": 9
+  }
+}
