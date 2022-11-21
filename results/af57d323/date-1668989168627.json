@@ -1,0 +1,67 @@
+{
+  "url": "https://cra-chakra-ts.sznm.dev/",
+  "requestedUrl": "https://cra-chakra-ts.sznm.dev/",
+  "timestamp": 1668989547983,
+  "ranks": {
+    "hundos": 10,
+    "performance": 11,
+    "accessibility": 10,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.86,
+    "accessibility": 0.97,
+    "bestPractices": 0.92,
+    "seo": 1,
+    "total": 375
+  },
+  "firstContentfulPaint": 782.0998,
+  "firstMeaningfulPaint": 782.0998,
+  "speedIndex": 865.3276052005273,
+  "largestContentfulPaint": 2476.6453999999994,
+  "totalBlockingTime": 437,
+  "cumulativeLayoutShift": 0.08485395643446182,
+  "timeToInteractive": 2351.0292,
+  "maxPotentialFirstInputDelay": 277,
+  "timeToFirstByte": 100.6,
+  "weight": {
+    "summary": "11 requests • 193 KiB",
+    "total": 197551,
+    "image": 8586,
+    "imageCount": 3,
+    "script": 155072,
+    "scriptCount": 3,
+    "document": 802,
+    "font": 32544,
+    "fontCount": 3,
+    "stylesheet": 547,
+    "stylesheetCount": 1,
+    "thirdParty": 8586,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 8,
+    "+weight.total": 5,
+    "-weight.document": 2,
+    "+weight.document": 11,
+    "-weight.script": 8,
+    "+weight.script": 5,
+    "-weight.image": 6,
+    "+weight.image": 7,
+    "-weight.font": 6,
+    "+weight.font": 7,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 12,
+    "-largestContentfulPaint": 11
+  },
+  "axe": {
+    "passes": 130,
+    "violations": 10
+  }
+}
