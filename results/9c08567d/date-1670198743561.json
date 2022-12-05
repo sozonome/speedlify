@@ -1,0 +1,67 @@
+{
+  "url": "https://agustinusnathaniel.com/",
+  "requestedUrl": "https://agustinusnathaniel.com/",
+  "timestamp": 1670198812874,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 1205.838,
+  "firstMeaningfulPaint": 1205.838,
+  "speedIndex": 3363.006764000075,
+  "largestContentfulPaint": 1698.907,
+  "totalBlockingTime": 6,
+  "cumulativeLayoutShift": 0.0019757080078125003,
+  "timeToInteractive": 1515.338,
+  "maxPotentialFirstInputDelay": 57,
+  "timeToFirstByte": 1796.903,
+  "weight": {
+    "summary": "22 requests • 85 KiB",
+    "total": 86565,
+    "image": 0,
+    "imageCount": 0,
+    "script": 40720,
+    "scriptCount": 15,
+    "document": 2537,
+    "font": 37883,
+    "fontCount": 3,
+    "stylesheet": 5348,
+    "stylesheetCount": 1,
+    "thirdParty": 1638,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 12,
+    "-weight.document": 1,
+    "+weight.document": 12,
+    "-weight.script": 1,
+    "+weight.script": 12,
+    "-weight.image": 1,
+    "+weight.image": 7,
+    "-weight.font": 3,
+    "+weight.font": 10,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 12,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 3
+  },
+  "axe": {
+    "passes": 94,
+    "violations": 0
+  }
+}
