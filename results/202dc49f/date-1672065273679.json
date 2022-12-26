@@ -1,0 +1,67 @@
+{
+  "url": "https://wus.sh/",
+  "requestedUrl": "https://wus.sh/",
+  "timestamp": 1672065352938,
+  "ranks": {
+    "hundos": 9,
+    "performance": 10,
+    "accessibility": 5,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "9.6.8",
+    "performance": 0.72,
+    "accessibility": 0.97,
+    "bestPractices": 0.92,
+    "seo": 1,
+    "total": 361
+  },
+  "firstContentfulPaint": 776.641,
+  "firstMeaningfulPaint": 796.641,
+  "speedIndex": 3904.838428259055,
+  "largestContentfulPaint": 1220.092,
+  "totalBlockingTime": 917.0000000000003,
+  "cumulativeLayoutShift": 0.00888221910264757,
+  "timeToInteractive": 7431.8973961792,
+  "maxPotentialFirstInputDelay": 331,
+  "timeToFirstByte": 9.802000000000021,
+  "weight": {
+    "summary": "32 requests • 668 KiB",
+    "total": 683804,
+    "image": 0,
+    "imageCount": 0,
+    "script": 556875,
+    "scriptCount": 14,
+    "document": 31171,
+    "font": 51636,
+    "fontCount": 4,
+    "stylesheet": 24830,
+    "stylesheetCount": 2,
+    "thirdParty": 270833,
+    "thirdPartyCount": 13
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 4,
+    "-weight.document": 9,
+    "+weight.document": 4,
+    "-weight.script": 9,
+    "+weight.script": 4,
+    "-weight.image": 1,
+    "+weight.image": 7,
+    "-weight.font": 8,
+    "+weight.font": 5,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 5,
+    "-totalBlockingTime": 10,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 125,
+    "violations": 8
+  }
+}
