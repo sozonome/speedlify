@@ -14,16 +14,9 @@ module.exports = {
   },
   urls: [
     "https://nextarter-chakra.sznm.dev/",
-    "https://nextarter-mui.sznm.dev/",
-    "https://nextarter-tailwind.sznm.dev/",
-    "https://nextarter-windi.sznm.dev",
+    "https://nextarter-tailwind-daisy.sznm.dev/",
     "https://vite-react-chakra-starter.sznm.dev",
-    "https://mixtarter-chakra.sznm.dev/",
-    "https://mixtarter-tailwind.sznm.dev/",
     "https://sveltekit-tw.sznm.dev/",
     "https://sveltekit-uno.sznm.dev/",
-    "https://swindi.sznm.dev",
-    "https://nextarter-nextui.sznm.dev",
-    "https://cra-chakra-ts.sznm.dev"
   ],
 };
