@@ -22,7 +22,6 @@ module.exports = {
     "https://publicapis.sznm.dev/",
     "https://muvees.sznm.dev/",
     "https://gaas.sznm.dev/",
-    "https://covid19.sznm.dev/",
     "https://base.sznm.dev/",
     "https://xtarter.sznm.dev/",
   ],
