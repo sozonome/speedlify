@@ -14,9 +14,6 @@ module.exports = {
   },
   urls: [
     "https://nextarter-chakra.sznm.dev/",
-    "https://nextarter-tailwind-daisy.sznm.dev/",
     "https://vite-react-chakra-starter.sznm.dev",
-    "https://sveltekit-tw.sznm.dev/",
-    "https://sveltekit-uno.sznm.dev/",
   ],
 };
