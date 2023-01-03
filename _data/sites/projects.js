@@ -18,7 +18,7 @@ module.exports = {
     "https://wus.sh/",
     "https://wus.sh/sozonome",
     "https://wus.sh/agustinusnathaniel",
-    "https://spoker.dev/",
+    "https://spoker.dev/intro",
     "https://publicapis.sznm.dev/",
     "https://muvees.sznm.dev/",
     "https://gaas.sznm.dev/",
