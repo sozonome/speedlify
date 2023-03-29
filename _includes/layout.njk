@@ -13,10 +13,14 @@
 		</script>
 	</head>
 	<body>
-		<h1 class="speedlify-hed"><a href="{{ '/' | url }}">speedlify</a>{% if vertical %}:{{ vertical }}{% endif %}</h1>
-		<p class="speedlify-subhed">My site project's benchmark.</h1>
+		<header>
+			<h1 class="speedlify-hed"><a href="{{ '/' | url }}">speedlify</a>{% if vertical %}:{{ vertical }}{% endif %}</h1>
+			<p class="speedlify-subhed">My site project's benchmark.</h1>
+		</header>
 
-		{{ content | safe }}
+		<main>
+			{{ content | safe }}
+		</main>
 
 		<footer>
 			<p class="speedlify-subhed">
