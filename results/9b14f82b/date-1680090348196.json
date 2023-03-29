@@ -1,0 +1,67 @@
+{
+  "url": "https://my-spotify-nuxt.sznm.dev/",
+  "requestedUrl": "https://my-spotify-nuxt.sznm.dev/",
+  "timestamp": 1680090372913,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 3,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "10.1.0",
+    "performance": 0.99,
+    "accessibility": 0.82,
+    "bestPractices": 1,
+    "seo": 0.82,
+    "total": 363
+  },
+  "firstContentfulPaint": 1520.028,
+  "firstMeaningfulPaint": 1520.028,
+  "speedIndex": 3071.8200200000056,
+  "largestContentfulPaint": 1520.028,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0009722709792391695,
+  "timeToInteractive": 1520.028,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 1536.808,
+  "weight": {
+    "summary": "9 requests • 84 KiB",
+    "total": 85691,
+    "image": 0,
+    "imageCount": 0,
+    "script": 50957,
+    "scriptCount": 3,
+    "document": 973,
+    "font": 30596,
+    "fontCount": 1,
+    "stylesheet": 2297,
+    "stylesheetCount": 2,
+    "thirdParty": 31007,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 2,
+    "-weight.document": 1,
+    "+weight.document": 3,
+    "-weight.script": 1,
+    "+weight.script": 2,
+    "-weight.image": 1,
+    "+weight.image": 1,
+    "-weight.font": 1,
+    "+weight.font": 2,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 32,
+    "violations": 2
+  }
+}
