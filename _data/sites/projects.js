@@ -1,6 +1,6 @@
 module.exports = {
   name: "Projects", // optional, falls back to object key
-  description: "Some Projects",
+  description: "Some Projects (Sites, Apps)",
   // // skip if localhost
   // // skip if this is a new fork of the speedlify (not Zach’s)
   // skip: !process.env.CONTEXT || process.env.SITE_NAME !== "speedlify",
@@ -13,10 +13,12 @@ module.exports = {
     freshChrome: "run",
   },
   urls: [
+    "https://sznm.dev/",
+    "https://agustinusnathaniel.com/",
     "https://wus.sh/",
     "https://wus.sh/sozonome",
     "https://wus.sh/agustinusnathaniel",
-    "https://spoker.dev/intro",
+    "https://spoker.dev/home",
     "https://publicapis.sznm.dev/",
     "https://muvees.sznm.dev/",
     "https://gaas.sznm.dev/",
