@@ -16,5 +16,6 @@ module.exports = {
     "https://my-spotify-astro.sznm.dev",
     "https://my-spotify-nuxt.sznm.dev",
     "https://my-spotify-fresh.sznm.dev",
+    "https://leeboor.sznm.dev",
   ],
 };
