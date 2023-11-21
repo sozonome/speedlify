@@ -18,6 +18,6 @@ module.exports = {
     "https://vite-react-tailwind-starter.sznm.dev",
     "https://nextarter-tailwind.sznm.dev",
     "https://vite-antd-dashboard.sznm.dev",
-    "https://vite-mantine-dashboard.sznm.dev
+    "https://vite-mantine-dashboard.sznm.dev"
   ],
 };
