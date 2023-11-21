@@ -1,0 +1,67 @@
+{
+  "url": "https://muvees.sznm.dev/",
+  "requestedUrl": "https://muvees.sznm.dev/",
+  "timestamp": 1700552657949,
+  "ranks": {
+    "hundos": 10,
+    "performance": 10,
+    "accessibility": 9,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "10.4.0",
+    "performance": 0.74,
+    "accessibility": 0.94,
+    "bestPractices": 0.92,
+    "seo": 1,
+    "total": 360
+  },
+  "firstContentfulPaint": 935.4684000000001,
+  "firstMeaningfulPaint": 975.4684000000001,
+  "speedIndex": 995.8022670843494,
+  "largestContentfulPaint": 5184.57468,
+  "totalBlockingTime": 305.00000000000034,
+  "cumulativeLayoutShift": 0.0002914790071974173,
+  "timeToInteractive": 4501.249150000001,
+  "maxPotentialFirstInputDelay": 311,
+  "timeToFirstByte": 110.994,
+  "weight": {
+    "summary": "67 requests • 1,619 KiB",
+    "total": 1657860,
+    "image": 1278099,
+    "imageCount": 21,
+    "script": 230875,
+    "scriptCount": 18,
+    "document": 21657,
+    "font": 38776,
+    "fontCount": 3,
+    "stylesheet": 506,
+    "stylesheetCount": 1,
+    "thirdParty": 1276883,
+    "thirdPartyCount": 20
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 11,
+    "+weight.total": 1,
+    "-weight.document": 6,
+    "+weight.document": 6,
+    "-weight.script": 6,
+    "+weight.script": 6,
+    "-weight.image": 5,
+    "+weight.image": 1,
+    "-weight.font": 4,
+    "+weight.font": 8,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 11,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 11
+  },
+  "axe": {
+    "passes": 432,
+    "violations": 48
+  }
+}
