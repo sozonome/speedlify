@@ -1,0 +1,20 @@
+{
+  "url": "https://vite-react-tailwind-starter.sznm.dev/",
+  "error": "Unknown error.",
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 2,
+    "-weight.document": 2,
+    "+weight.document": 2,
+    "-weight.script": 2,
+    "+weight.script": 2,
+    "-weight.image": 2,
+    "+weight.image": 2,
+    "-weight.font": 2,
+    "+weight.font": 2,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 2
+  }
+}

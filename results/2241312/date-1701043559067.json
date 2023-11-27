@@ -1,0 +1,20 @@
+{
+  "url": "https://gaas.sznm.dev/",
+  "error": "Unknown error.",
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 7,
+    "-weight.document": 7,
+    "+weight.document": 7,
+    "-weight.script": 7,
+    "+weight.script": 7,
+    "-weight.image": 6,
+    "+weight.image": 6,
+    "-weight.font": 4,
+    "+weight.font": 4,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 7
+  }
+}
