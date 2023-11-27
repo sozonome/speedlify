@@ -15,13 +15,13 @@ jobs:
     steps:
       - name: Checkout results
         id: checkout-results
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         continue-on-error: true
         with:
           ref: refs/heads/results
           path: results
       - name: Checkout speedlify
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           path: default
       - name: Copy existing results
