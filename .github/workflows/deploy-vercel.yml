@@ -18,12 +18,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout results
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: refs/heads/results
           path: results
       - name: Checkout speedlify
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           path: default
       - name: Copy existing results
