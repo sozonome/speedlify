@@ -15,9 +15,9 @@ module.exports = {
   urls: [
     "https://sznm.dev/",
     "https://agustinusnathaniel.com/",
-    "https://wus.sh/",
-    "https://wus.sh/sozonome",
-    "https://wus.sh/agustinusnathaniel",
+    "https://wussh.sznm.dev/",
+    "https://wussh.sznm.dev/sozonome",
+    "https://wussh.sznm.dev/agustinusnathaniel",
     "https://spoker.dev/home",
     "https://publicapis.sznm.dev/",
     "https://muvees.sznm.dev/",
