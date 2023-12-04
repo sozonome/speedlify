@@ -1,0 +1,55 @@
+{
+  "url": "https://xtarter.sznm.dev/",
+  "requestedUrl": "https://xtarter.sznm.dev/",
+  "timestamp": 1701668735605,
+  "ranks": {
+    "hundos": 11,
+    "performance": 11,
+    "accessibility": 4,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "11.3.0",
+    "performance": null,
+    "accessibility": 0.93,
+    "bestPractices": null,
+    "seo": 1,
+    "total": 193
+  },
+  "timeToFirstByte": 169.817,
+  "weight": {
+    "summary": "14 requests • 214.1 KiB",
+    "total": 219277,
+    "image": 0,
+    "imageCount": 0,
+    "script": 172318,
+    "scriptCount": 9,
+    "document": 12775,
+    "font": 32420,
+    "fontCount": 1,
+    "stylesheet": 600,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "sidequests": {
+    "-weight.total": 3,
+    "+weight.total": 9,
+    "-weight.document": 5,
+    "+weight.document": 7,
+    "-weight.script": 4,
+    "+weight.script": 8,
+    "-weight.image": 1,
+    "+weight.image": 6,
+    "-weight.font": 1,
+    "+weight.font": 11,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 11
+  },
+  "axe": {
+    "passes": 221,
+    "violations": 25
+  }
+}
