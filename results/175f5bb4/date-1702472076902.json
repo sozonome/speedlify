@@ -1,0 +1,55 @@
+{
+  "url": "https://nextarter-park.sznm.dev/",
+  "requestedUrl": "https://nextarter-park.sznm.dev/",
+  "timestamp": 1702472303621,
+  "ranks": {
+    "hundos": 9,
+    "performance": 9,
+    "accessibility": 5,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": null,
+    "accessibility": 0.95,
+    "bestPractices": null,
+    "seo": 1,
+    "total": 195
+  },
+  "timeToFirstByte": 635.887,
+  "weight": {
+    "summary": "11 requests • 159.8 KiB",
+    "total": 163684,
+    "image": 2801,
+    "imageCount": 2,
+    "script": 99574,
+    "scriptCount": 6,
+    "document": 3857,
+    "font": 32977,
+    "fontCount": 1,
+    "stylesheet": 24475,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 8,
+    "-weight.document": 6,
+    "+weight.document": 4,
+    "-weight.script": 4,
+    "+weight.script": 6,
+    "-weight.image": 1,
+    "+weight.image": 8,
+    "-weight.font": 4,
+    "+weight.font": 6,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 8,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 9
+  },
+  "axe": {
+    "passes": 79,
+    "violations": 1
+  }
+}
