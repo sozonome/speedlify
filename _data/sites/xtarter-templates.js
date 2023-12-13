@@ -14,10 +14,13 @@ module.exports = {
   },
   urls: [
     "https://nextarter-chakra.sznm.dev/",
+    "https://nextarter-tailwind.sznm.dev",
+    "https://nextarter-nextui.sznm.dev",
+    "https://nextarter-park.sznm.dev",
     "https://vite-react-chakra-starter.sznm.dev",
     "https://vite-react-tailwind-starter.sznm.dev",
-    "https://nextarter-tailwind.sznm.dev",
     "https://vite-antd-dashboard.sznm.dev",
-    "https://vite-mantine-dashboard.sznm.dev"
+    "https://vite-mantine-dashboard.sznm.dev",
+    "https://vite-react-radix-starter.sznm.dev"
   ],
 };
