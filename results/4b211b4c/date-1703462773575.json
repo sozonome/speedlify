@@ -1,0 +1,55 @@
+{
+  "url": "https://wussh.sznm.dev/",
+  "requestedUrl": "https://wussh.sznm.dev/",
+  "timestamp": 1703462867793,
+  "ranks": {
+    "hundos": 11,
+    "performance": 11,
+    "accessibility": 6,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": null,
+    "accessibility": 0.95,
+    "bestPractices": null,
+    "seo": 1,
+    "total": 195
+  },
+  "timeToFirstByte": 44.357,
+  "weight": {
+    "summary": "33 requests • 731.0 KiB",
+    "total": 748498,
+    "image": 0,
+    "imageCount": 0,
+    "script": 616919,
+    "scriptCount": 15,
+    "document": 35766,
+    "font": 58838,
+    "fontCount": 4,
+    "stylesheet": 25546,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 5,
+    "-weight.document": 8,
+    "+weight.document": 4,
+    "-weight.script": 8,
+    "+weight.script": 4,
+    "-weight.image": 1,
+    "+weight.image": 6,
+    "-weight.font": 8,
+    "+weight.font": 4,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 147,
+    "violations": 1
+  }
+}
