@@ -1,0 +1,67 @@
+{
+  "url": "https://wussh.sznm.dev/agustinusnathaniel",
+  "requestedUrl": "https://wussh.sznm.dev/agustinusnathaniel",
+  "timestamp": 1704558387815,
+  "ranks": {
+    "hundos": 7,
+    "performance": 7,
+    "accessibility": 3,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "11.4.0",
+    "performance": 0.93,
+    "accessibility": 0.99,
+    "bestPractices": 0.74,
+    "seo": 1,
+    "total": 366
+  },
+  "firstContentfulPaint": 769.6733,
+  "firstMeaningfulPaint": 769.6733,
+  "speedIndex": 2264.168951588761,
+  "largestContentfulPaint": 911.6908000000001,
+  "totalBlockingTime": 326,
+  "cumulativeLayoutShift": 0.0005746001432282116,
+  "timeToInteractive": 7278.855853796387,
+  "maxPotentialFirstInputDelay": 189,
+  "timeToFirstByte": 87.633,
+  "weight": {
+    "summary": "37 requests • 740.5 KiB",
+    "total": 758293,
+    "image": 0,
+    "imageCount": 0,
+    "script": 625112,
+    "scriptCount": 19,
+    "document": 37657,
+    "font": 58807,
+    "fontCount": 4,
+    "stylesheet": 25546,
+    "stylesheetCount": 2,
+    "thirdParty": 317246,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 3,
+    "-weight.document": 9,
+    "+weight.document": 3,
+    "-weight.script": 10,
+    "+weight.script": 2,
+    "-weight.image": 1,
+    "+weight.image": 6,
+    "-weight.font": 6,
+    "+weight.font": 6,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 4
+  },
+  "axe": {
+    "passes": 216,
+    "violations": 4
+  }
+}
