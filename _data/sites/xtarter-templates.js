@@ -21,6 +21,7 @@ module.exports = {
     "https://vite-react-tailwind-starter.sznm.dev",
     "https://vite-antd-dashboard.sznm.dev",
     "https://vite-mantine-dashboard.sznm.dev",
-    "https://vite-react-radix-starter.sznm.dev"
+    "https://vite-react-radix-starter.sznm.dev",
+    "https://rsbuild-react-chakra-starter.sznm.dev"
   ],
 };
