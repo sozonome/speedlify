@@ -15,7 +15,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: macos-14
     steps:
       - name: Checkout results
         uses: actions/checkout@v4

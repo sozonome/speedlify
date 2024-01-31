@@ -11,7 +11,7 @@ on:
     # once a week on monday
 jobs:
   run-tests:
-    runs-on: ubuntu-latest
+    runs-on: macos-14
     steps:
       - name: Checkout results
         id: checkout-results
