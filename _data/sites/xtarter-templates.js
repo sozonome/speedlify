@@ -17,6 +17,7 @@ module.exports = {
     "https://nextarter-tailwind.sznm.dev",
     "https://nextarter-nextui.sznm.dev",
     "https://nextarter-park.sznm.dev",
+    "https://nextarter-mantine.sznm.dev",
     "https://vite-react-chakra-starter.sznm.dev",
     "https://vite-react-tailwind-starter.sznm.dev",
     "https://vite-antd-dashboard.sznm.dev",
