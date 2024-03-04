@@ -1,0 +1,67 @@
+{
+  "url": "https://nextarter-nextui.sznm.dev/",
+  "requestedUrl": "https://nextarter-nextui.sznm.dev/",
+  "timestamp": 1709510986174,
+  "ranks": {
+    "hundos": 10,
+    "performance": 10,
+    "accessibility": 8,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "11.6.0",
+    "performance": 0.91,
+    "accessibility": 0.95,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 382
+  },
+  "firstContentfulPaint": 1225.7179999999998,
+  "firstMeaningfulPaint": 2137.4763999999996,
+  "speedIndex": 2472.116379118112,
+  "largestContentfulPaint": 3426.4258,
+  "totalBlockingTime": 16,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2555.6674,
+  "maxPotentialFirstInputDelay": 82,
+  "timeToFirstByte": 451.837,
+  "weight": {
+    "summary": "15 requests • 345.6 KiB",
+    "total": 353886,
+    "image": 4868,
+    "imageCount": 3,
+    "script": 295503,
+    "scriptCount": 8,
+    "document": 5055,
+    "font": 25601,
+    "fontCount": 1,
+    "stylesheet": 22711,
+    "stylesheetCount": 1,
+    "thirdParty": 11801,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 10,
+    "+weight.total": 2,
+    "-weight.document": 9,
+    "+weight.document": 3,
+    "-weight.script": 10,
+    "+weight.script": 2,
+    "-weight.image": 7,
+    "+weight.image": 4,
+    "-weight.font": 2,
+    "+weight.font": 10,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 11,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 10
+  },
+  "axe": {
+    "passes": 133,
+    "violations": 5
+  }
+}
