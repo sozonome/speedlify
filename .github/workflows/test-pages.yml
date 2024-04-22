@@ -34,12 +34,12 @@ jobs:
         run: npm run test-pages
         working-directory: default
       - name: Upload results artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: results
           path: default/_data/results
       - name: Upload results-last-runs artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: results-last-runs.json
           path: default/_data/results-last-runs.json
