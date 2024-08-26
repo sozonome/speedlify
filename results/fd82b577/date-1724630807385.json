@@ -1,0 +1,67 @@
+{
+  "url": "https://vite-react-tailwind-starter.sznm.dev/",
+  "requestedUrl": "https://vite-react-tailwind-starter.sznm.dev/",
+  "timestamp": 1724631076597,
+  "ranks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 3,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 395
+  },
+  "firstContentfulPaint": 1324.6186,
+  "firstMeaningfulPaint": 1341.6186,
+  "speedIndex": 1600.3787411741046,
+  "largestContentfulPaint": 1998.1689999999999,
+  "totalBlockingTime": 1.5,
+  "cumulativeLayoutShift": 0.0396321990835447,
+  "timeToInteractive": 1905.7251999999999,
+  "maxPotentialFirstInputDelay": 53,
+  "timeToFirstByte": 139.43200000000002,
+  "weight": {
+    "summary": "12 requests • 123.5 KiB",
+    "total": 126425,
+    "image": 2917,
+    "imageCount": 2,
+    "script": 80588,
+    "scriptCount": 4,
+    "document": 941,
+    "font": 38351,
+    "fontCount": 3,
+    "stylesheet": 3473,
+    "stylesheetCount": 1,
+    "thirdParty": 9874,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 11,
+    "-weight.document": 2,
+    "+weight.document": 9,
+    "-weight.script": 1,
+    "+weight.script": 11,
+    "-weight.image": 1,
+    "+weight.image": 9,
+    "-weight.font": 9,
+    "+weight.font": 3,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 3
+  },
+  "axe": {
+    "passes": 68,
+    "violations": 0
+  }
+}
