@@ -25,6 +25,6 @@ module.exports = {
     "https://vite-react-radix-starter.sznm.dev",
     "https://rsbuild-react-chakra-starter.sznm.dev",
     "https://rsbuild-antd-dashboard.sznm.dev",
-    "https://rsbuild-mantine-dashboard.sznm.dev,
+    "https://rsbuild-mantine-dashboard.sznm.dev",
   ],
 };
