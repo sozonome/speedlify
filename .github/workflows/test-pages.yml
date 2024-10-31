@@ -61,7 +61,7 @@ jobs:
           fi
       - name: Trigger Deploy to Vercel
         if: success()
-        uses: peter-evans/repository-dispatch@v1
+        uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.PAT_SPEEDLIFY_VERCEL }}
           repository: ${{ github.repository }}
