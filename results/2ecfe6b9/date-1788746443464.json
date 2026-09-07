@@ -1,0 +1,67 @@
+{
+  "url": "https://cartrack.sznm.dev/",
+  "requestedUrl": "https://cartrack.sznm.dev/",
+  "timestamp": 1788746609994,
+  "ranks": {
+    "hundos": 11,
+    "performance": 11,
+    "accessibility": 10,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.74,
+    "accessibility": 0.93,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 363
+  },
+  "firstContentfulPaint": 2536.77557,
+  "firstMeaningfulPaint": 4861.77557,
+  "speedIndex": 3832.734639411742,
+  "largestContentfulPaint": 5386.77557,
+  "totalBlockingTime": 110,
+  "cumulativeLayoutShift": 0.00007319271154269912,
+  "timeToInteractive": 4861.77557,
+  "maxPotentialFirstInputDelay": 145,
+  "timeToFirstByte": 202.181,
+  "weight": {
+    "summary": "58 requests • 920.3 KiB",
+    "total": 942371,
+    "image": 0,
+    "imageCount": 0,
+    "script": 808618,
+    "scriptCount": 53,
+    "document": 3225,
+    "font": 80788,
+    "fontCount": 2,
+    "stylesheet": 49160,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 4,
+    "-weight.document": 1,
+    "+weight.document": 12,
+    "-weight.script": 10,
+    "+weight.script": 3,
+    "-weight.image": 1,
+    "+weight.image": 5,
+    "-weight.font": 8,
+    "+weight.font": 5,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "passes": 188,
+    "violations": 7
+  }
+}
